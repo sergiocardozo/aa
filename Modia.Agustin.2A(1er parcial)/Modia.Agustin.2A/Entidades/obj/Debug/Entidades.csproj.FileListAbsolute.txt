@@ -1,0 +1,6 @@
+D:\VisualStudio\Modia.Agustin.2A\Modia.Agustin.2A\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Modia.Agustin.2A\Modia.Agustin.2A\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Modia.Agustin.2A\Modia.Agustin.2A\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Modia.Agustin.2A\Modia.Agustin.2A\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Modia.Agustin.2A\Modia.Agustin.2A\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Modia.Agustin.2A\Modia.Agustin.2A\Entidades\obj\Debug\Entidades.pdb
